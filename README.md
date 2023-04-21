@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Pedro Vinicius
 - 🔭 Pretendo trabalhar com desenvolvimento web.
 - 🌱 Estou cursando ciência da computação e fazendo o curso The Complete 2023 Web Development Bootcamp da udemy.
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: amo café, mas tenho gastrite.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVieiraG&theme=tokyonight&show_icons=true)
