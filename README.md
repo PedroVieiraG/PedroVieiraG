@@ -1,7 +1,4 @@
 ### Olá! Eu sou o Pedro Vinicius
-- 🔭 Pretendo trabalho com desenvolvimento web.
-- 🌱 Estou cursando ciência da computação.
-- ⚡ Fun fact: amo café, mas tenho gastrite.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVieiraG&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieiraG&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
